@@ -1,0 +1,5 @@
+In Python you can slice list
+In Python you can use dictionaries
+In Python you can use classes
+In python you can use Oriented Object Programming
+In python you can read files
